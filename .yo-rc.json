@@ -1,35 +1,35 @@
 {
-    "generator-jhipster": {
-        "promptValues": {
-            "packageName": "com.interview.library"
-        },
-        "jhipsterVersion": "5.8.2",
-        "applicationType": "monolith",
-        "baseName": "library",
-        "packageName": "com.interview.library",
-        "packageFolder": "com/interview/library",
-        "serverPort": "8080",
-        "authenticationType": "jwt",
-        "cacheProvider": "ehcache",
-        "enableHibernateCache": true,
-        "websocket": false,
-        "databaseType": "sql",
-        "devDatabaseType": "mysql",
-        "prodDatabaseType": "mysql",
-        "searchEngine": false,
-        "messageBroker": false,
-        "serviceDiscoveryType": false,
-        "buildTool": "maven",
-        "enableSwaggerCodegen": false,
-        "jwtSecretKey": "NmIxYjgxNmNhODZlNjRmNjBiMTM1ODdhMGY1YTA4ZDg0Mzg5MDYwNjZkYzdmMjAxNmFkZmRiNzI2MmZjMjNhZjk5OGJiNTZkY2IzNDI3M2NiM2NmMjg5YjBhZTliMDNlYzc4YzMwYzlmMDU1MDQ4ZTMzOTQxMDZmNDlmZTQzN2U=",
-        "clientFramework": "angularX",
-        "useSass": false,
-        "clientPackageManager": "npm",
-        "testFrameworks": [],
-        "jhiPrefix": "jhi",
-        "entitySuffix": "",
-        "dtoSuffix": "DTO",
-        "otherModules": [],
-        "enableTranslation": false
-    }
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.interview.library"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "library",
+    "packageName": "com.interview.library",
+    "packageFolder": "com/interview/library",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmIxYjgxNmNhODZlNjRmNjBiMTM1ODdhMGY1YTA4ZDg0Mzg5MDYwNjZkYzdmMjAxNmFkZmRiNzI2MmZjMjNhZjk5OGJiNTZkY2IzNDI3M2NiM2NmMjg5YjBhZTliMDNlYzc4YzMwYzlmMDU1MDQ4ZTMzOTQxMDZmNDlmZTQzN2U=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
 }
